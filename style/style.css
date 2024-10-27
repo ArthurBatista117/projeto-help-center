@@ -19,7 +19,7 @@
 
 body{
     height: 100vh;
-    width: 99vw;
+    width: 99vw; 
 }
 
 header{
@@ -143,7 +143,7 @@ div.itens{
 }
 
 div.imgs{
-    margin-inline: 20px;
+    padding-right: 10px;
 }
 
 div.conteudo{
